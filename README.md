@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://baobao.tistory.com/"><img src="https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=Tistory&&logoColor=white&link=https://baobao.tistory.com/"/></a>&nbsp
   <a href="https://www.linkedin.com/in/%EC%84%A0%EC%9A%B1-%EB%AC%B8-854b5219a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%A0%EC%9A%B1-%EB%AC%B8-854b5219a/"/></a>&nbsp
-  
   ![github-stats](https://github-readme-stats.vercel.app/api?username=Munsunouk&count_private=true&theme=algolia)
+</p>
   
   
