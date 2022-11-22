@@ -15,7 +15,7 @@
 
 <h3 align="center"> 🦄 Me 🦄 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/%EC%84%A0%EC%9A%B1-%EB%AC%B8-854b5219a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%A0%EC%9A%B1-%EB%AC%B8-854b5219a/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/sunouk-mun-854b5219a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%A0%EC%9A%B1-%EB%AC%B8-854b5219a/"/></a>&nbsp
 </p>
 
 <br>
